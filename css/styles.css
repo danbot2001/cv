@@ -1,1 +1,16 @@
+body {
+background-color: #eab9c9;
+}
+h1 {
+color: #66BFBF;
 
+}
+h3 {
+  color: blue;
+}
+hr {
+background-color: darkgreen;
+border-style: none;
+border-top-style: dotted;
+width: 20%;
+}
